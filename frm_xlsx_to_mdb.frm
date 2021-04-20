@@ -183,7 +183,7 @@ Do Until rs.EOF
                 rsDst.Fields("two") = two
             rsDst.Update
     End If
-    index = index + 1
+    Index = Index + 1
     rs.MoveNext
 Loop
 rs.Close
