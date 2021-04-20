@@ -1,7 +1,7 @@
 VERSION 5.00
 Object = "{F9043C88-F6F2-101A-A3C9-08002B2F49FB}#1.2#0"; "COMDLG32.OCX"
 Begin VB.Form frm_xlsx_to_mdb 
-   Caption         =   "Excel To VD"
+   Caption         =   "Excel To MDB"
    ClientHeight    =   3180
    ClientLeft      =   120
    ClientTop       =   465
